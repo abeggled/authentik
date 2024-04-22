@@ -41,7 +41,7 @@ Create an application which uses this provider. Optionally apply access restrict
 
 To configure Synology DSM to utilize authentik as an OpenID Connect 1.0 Provider:
 
-1. In the DSM Control Panel, navigate to **Domain/LDAP** -> **SSO Client**.
+1. In the DSM Control Panel, navigate to **Domain/LDAP/Local** -> **SSO Client**.
 2. Check the **Enable OpenID Connect SSO service** checkbox in the **OpenID Connect SSO Service** section.
 3. Configure the following values:
 
